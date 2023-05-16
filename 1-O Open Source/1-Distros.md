@@ -1,6 +1,6 @@
 # Distribuições Linux
 
-Sejam bem vindos ao curso de Linux da [He4rt Developers](discord.io/He4rt), aqui nos vamos desbravar esse mundo temido por alguns desenvolvedores e amado por muitos. Veremos tópicos que abrangem desde o mais básico da CLI até tópicos avançados como Segurança do Sistemas.
+Sejam bem vindos ao curso de Linux da [He4rt Developers](http://discord.io/He4rt), aqui nos vamos desbravar esse mundo temido por alguns desenvolvedores e amado por muitos. Veremos tópicos que abrangem desde o mais básico da CLI até tópicos avançados como Segurança do Sistemas.
 
 Para começar preciso explicar uma coisa, o sistemas do Pinguim é um sistema modular, que é composto por varias partes que combinam entre si. Essas partes são compostas desde Softwares que se comunicam com o Hardware diretamente até Interfaces, mas não se assuste, vamos explicar tudo aqui, vamos passar por todos os tópicos abaixo.
 
